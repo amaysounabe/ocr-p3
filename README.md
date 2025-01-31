@@ -14,7 +14,6 @@ Disponible en téléchargement [**ici**](https://s3-eu-west-1.amazonaws.com/stat
 
 
 ### Dossiers & fichiers
-- **data** &rarr; Dossier contenant le jeu de données (vide car le jeu de données est trop volumineux)
 - **graphiques** &rarr; Dossier contenant les graphiques enregistrés au cours de l'analyse
 - **analyse.ipynb** &rarr; Notebook comportant l'EDA
 - **presentation_slides.pdf** &rarr; Fichier pdf des slides de présentation de l'analyse exploratoire utilisées à l'issue du projet
@@ -29,4 +28,6 @@ cd ocr-p3
 pip install -r requirements.txt
 ```
 
-Ensuite, téléchargez les données et les mettre dans le dossier **data**
+Ensuite, 
+- Créer un dossier **data**
+- Télécharger les données et les mettre dans le dossier **data** créé précédemment
