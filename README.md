@@ -1,5 +1,4 @@
-<h1 style="text-align: center; font-size: 35px;">OPENCLASSROOMS - PROJET 3 <br> 
-    Préparation de données pour un organisme de santé publique</h1>
+<h1 style="text-align: center; font-size: 35px;">Préparation de données pour un organisme de santé publique</h1>
 
 ## Description
 Analyse exploratoire de données alimentaires. <br>
@@ -15,8 +14,8 @@ Disponible en téléchargement [**ici**](https://s3-eu-west-1.amazonaws.com/stat
 
 ### Dossiers & fichiers
 - **graphiques** &rarr; Dossier contenant les graphiques enregistrés au cours de l'analyse
-- **analyse.ipynb** &rarr; Notebook comportant l'EDA
-- **presentation_slides.pdf** &rarr; Fichier pdf des slides de présentation de l'analyse exploratoire utilisées à l'issue du projet
+- **analyse.ipynb** &rarr; Notebook comportant l'analyse exploratoire des données
+- **presentation_slides.pdf** &rarr; Fichier pdf des slides de présentation de l'analyse exploratoire utilisées à lors de la soutenance du projet.
 - **requirements.txt** &rarr; Fichier texte contenant la liste des bibliothèques utilisées
 
 ## Installation
